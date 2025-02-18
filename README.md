@@ -10,4 +10,10 @@ Computing Structures project involved implementing operations on binary search t
 Files: Project_112722_v3.R and project5.cpp
 
 Fall 2023:
-Database management systems project. Files include report pdf files and some .sql task files.
+Course in database management systems. 
+Files include individual project report pdf files and some .sql task files.
+
+Fall 2024:
+Courses in neural data science and artificial intelligence. 
+Files include AI homework .py files and .ipynb files and report for neural data science final project. Also includes TRUExT paper from master's thesis project (however code cannot be provided due to privacy reasons). 
+
